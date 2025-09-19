@@ -1,6 +1,6 @@
 # Demo App A11Y
 
-This repository demonstrates how to run Appium tests in [TestNG](http://testng.org) on BrowserStack App Automate using BrowserStack SDK.
+This repository demonstrates how to run Appium tests in [TestNG](http://testng.org) on BrowserStack App Automate and Generate App Accessibility Reports using BrowserStack SDK.
 
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
